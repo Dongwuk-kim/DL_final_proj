@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*.pdf
+*.avi
+data/*.png
+*.json
+*.xls
