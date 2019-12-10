@@ -117,7 +117,7 @@ In this section, ...
 \section{A Statistical Arbitrage with Deep Learning}
 In this section, we propose a neural network-based model that concentrates on clustering the corporations in the securities market, which has the best performance when making a portfolio with the mean-reversion strategy. The subsequent subsections portray the process and behind-the-scenes decisions when constructing the model.
 
-\subsection{Model Construction}
+\subsection{Model Description}
 In the past years, numerous deep models were advocated, which claims to effectively provide a solution to the problem of clustering unlabeled datasets in the literature. To illustrate, the Deep Embedded Clustering proposed by Xie et al. (2016), is one of the pioneers of such an approach. They proposed the clustering method, which combines the existing clustering model and the power of deep models. The gist of this model is that it has two training phases, and can be summarized as Figure \ref{DEC}: 
 
 \begin{itemize}
@@ -168,7 +168,8 @@ The following describes the tuning parameters and the optimizers:
 
 If the learning rate is greater than 0.01, we have observed that the result diverges, therefore disregarded. Moreover, if the proportion of the reconstruction loss exceeds a certain threshold, we noticed that it tends to dominate the whole loss function and hampers the performance of the mean-reversion strategy, as seen in Figure \ref{bigalpha}. To elaborate, we can see that the Sharpe ratio highly fluctuates, as well as the net profit is significantly lower than that of the K-means or manual classification. This resulted in fixing $\alpha$ to a small value.
 
-The performance of the model with various values of $n, c, d$ was provided at Figures \ref{deep result 1} to \ref{deep result 3}.
+\subsection{Results and discussion}
+The performance of the model with various values of $n, c, d$ was provided at Figures \ref{deep result 1} to \ref{deep result 3}, and provided with the graph of net gain and the Sharpe ratio throughout the test set.
 
 We observed that although the proposed model slightly outperforms the k-means approach in terms of the Sharpe ratio and the total profit, it suffers from lack of performance compared to the strategy based on the classification result provided by the vendor. This may be due to the following limitations of this network.
 

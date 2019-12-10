@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.21)  9 DEC 2019 17:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.21)  10 DEC 2019 20:56
 entering extended mode
 **"./DL final paper.tex"
 ("DL final paper.tex"
@@ -388,26 +388,26 @@ Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 ("DL final paper.aux")
 \openout1 = `"DL final paper.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 59.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 62.
 LaTeX Font Info:    Try loading font information for LUC+nanummj on input line 
-59.
+62.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/nanumtype1\lucnanummj.fd"
 File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
 )
-LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    ... okay on input line 62.
 
 ("C:\Program Files\MiKTeX 2.9\tex/context/base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -505,22 +505,61 @@ Package caption Info: End \AtBeginDocument code.
 [1
 
 {C:/Users/Sadaree/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2] ("DL final paper.aux") ) 
+LaTeX Font Info:    Try loading font information for U+msa on input line 124.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 124.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<images/dec-model.png, id=8, 396.48125pt x 221.82875pt>
+File: images/dec-model.png Graphic file (type png)
+<use images/dec-model.png>
+Package pdftex.def Info: images/dec-model.png  used on input line 130.
+(pdftex.def)             Requested size: 398.33858pt x 222.87408pt.
+ [2] [3 <./images/dec-model.png>] [4] [5] [6] [7]
+<images/aaa.png, id=33, 620.3175pt x 470.75874pt>
+File: images/aaa.png Graphic file (type png)
+<use images/aaa.png>
+Package pdftex.def Info: images/aaa.png  used on input line 233.
+(pdftex.def)             Requested size: 352.31621pt x 267.37273pt.
+<images/bbb.png, id=34, 1263.72125pt x 937.5025pt>
+File: images/bbb.png Graphic file (type png)
+<use images/bbb.png>
+Package pdftex.def Info: images/bbb.png  used on input line 241.
+(pdftex.def)             Requested size: 352.31621pt x 261.3688pt.
+<images/capt.png, id=35, 464.4853pt x 352.31625pt>
+File: images/capt.png Graphic file (type png)
+<use images/capt.png>
+Package pdftex.def Info: images/capt.png  used on input line 249.
+(pdftex.def)             Requested size: 352.31621pt x 267.24167pt.
+<images/capt2.png, id=36, 466.74374pt x 352.31625pt>
+File: images/capt2.png Graphic file (type png)
+<use images/capt2.png>
+Package pdftex.def Info: images/capt2.png  used on input line 257.
+(pdftex.def)             Requested size: 352.31621pt x 265.95145pt.
+ [8 <./images/aaa.png> <./images/bbb.png>] [9 <./images/capt.png> <./images/cap
+t2.png>] ("DL final paper.aux") ) 
 Here is how much of TeX's memory you used:
- 5828 strings out of 492946
- 85359 string characters out of 3135521
- 171761 words of memory out of 3000000
- 9616 multiletter control sequences out of 15000+200000
- 5468 words of font info for 20 fonts, out of 3000000 for 9000
+ 5908 strings out of 492946
+ 86718 string characters out of 3135521
+ 174807 words of memory out of 3000000
+ 9671 multiletter control sequences out of 15000+200000
+ 10421 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,38p,285b,134s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.p
-fb>
-Output written on "DL final paper.pdf" (2 pages, 46269 bytes).
+ 41i,6n,39p,1010b,302s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "DL final paper.pdf" (9 pages, 691312 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
